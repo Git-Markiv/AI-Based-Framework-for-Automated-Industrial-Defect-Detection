@@ -5,11 +5,11 @@ If the file doesn't display properly on GitHub, you can still download it easily
 
 How to Download?
 
-Open the file on GitHub.
-Click View raw.
-The raw file will open in your browser.
-Right-click and select Save As to download it.
-You can then open the downloaded file locally on your computer.
+1)Open the file on GitHub.
+2)Click View raw.
+3)The raw file will open in your browser.
+4)Right-click and select Save As to download it.
+5)You can then open the downloaded file locally on your computer.
 ----------------
 # DEFECTAI
 
