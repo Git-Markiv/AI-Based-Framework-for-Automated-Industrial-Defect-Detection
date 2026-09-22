@@ -1,5 +1,16 @@
 An AI-based system using computer vision and deep learning to detect industrial defects, assess severity, and assign quality grades. It improves inspection accuracy, reduces human error, saves time, and enables consistent quality control in manufacturing.
+----------------
+⚠️ Unable to view the file directly?
+If the file doesn't display properly on GitHub, you can still download it easily.
 
+How to Download?
+
+Open the file on GitHub.
+Click View raw.
+The raw file will open in your browser.
+Right-click and select Save As to download it.
+You can then open the downloaded file locally on your computer.
+----------------
 # DEFECTAI
 
 ### Explainable AI-Based Framework for Automated Industrial Defect Detection, Severity Assessment and Product Quality Grading
